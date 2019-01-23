@@ -5,11 +5,11 @@ export default() => {
     return (
         
 <div className="sidebar">
-            <Nav />
-            Sidebar
-            Sidebar
-            Sidebar
-        </div>
+  <Nav />
+    Sidebar
+    Sidebar
+    Sidebar
+</div>
   
  )
     };
